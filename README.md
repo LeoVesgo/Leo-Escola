@@ -1,1 +1,1 @@
-# Leo-Escola
+# LeoEscola
